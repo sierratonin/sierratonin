@@ -5,7 +5,6 @@ I am an enthusiastic and detail-oriented Software Engineering student. I am pass
 - 📚 Enrolled at Arizona State University, majoring in Software Engineering
 - ✏️ Currently going through The Odin Project's full stack JavaScript course in my freetime
 
-# 𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sierratonin&" alt="sierratonin" />
 
 
